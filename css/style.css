@@ -1,0 +1,28 @@
+body{
+    background: #f2f2f2;
+}
+
+h2{
+    color: #000;
+    text-align: 4px double #ff0000;
+    text-decoration: uppercase;
+    padding-bottom: 5PX;
+    margin-bottom: 5px; 
+}
+form{
+    border: 1px solid #ccc;
+    padding: 200px;
+    background: #f2f2f2;
+    margin-bottom: 100px;
+}
+
+input, select{
+    margin: 20px;
+    padding: 5px;
+}
+
+label{
+    width: 10px;
+    text-align: right;
+    padding: 5px;
+}
